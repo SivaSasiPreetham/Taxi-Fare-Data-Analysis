@@ -1,11 +1,11 @@
 **The Project is Completely written in Python**<br>
 
 *Following are the Packages utilized to complete the Project :-*<br>
-| Utility              | Packages             |
+| Utility              | Packages or Libraries            |
 |----------------------|-----------------------|
 | Data Analysis        | Numpy, Pandas, Scipy  |
 | Data Visualization   | Matplotlib, Seaborn   |
-|   Data Modelling     | Scikit-learn          |
+|   Machine Learning     | Scikit-learn          |
 
 **The New York City Taxi & Limousine Commission contracted Automatidata to predict taxi cab fares before each ride.**
 
