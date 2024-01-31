@@ -4,7 +4,7 @@
 | Utility              | Packages or Softwares            |
 |----------------------|-----------------------|
 | Data Analysis        | Numpy, Pandas, Scipy  |
-| Data Visualization   | Matplotlib, Seaborn   |
+| Data Visualization   | Matplotlib, Seaborn, Tableau   |
 |   Machine Learning     | Scikit-learn          |
 
 **The New York City Taxi & Limousine Commission contracted Automatidata to predict taxi cab fares before each ride.**
